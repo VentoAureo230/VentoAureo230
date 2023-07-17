@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VentoAureo230
-- 👀 I’m interested in coding stuff ofc
-- 🌱 I’m currently learning PhP, Python, C#, Docker and much more !
+- 🌱 I’m currently learning PhP, Python, Flutter, Docker and much more !
 - 💞️ I’m looking to collaborate on tons of project !
 - 📫 How to reach me : anthony.meny.contact@gmail.com
 
