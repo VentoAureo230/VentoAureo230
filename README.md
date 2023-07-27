@@ -1,7 +1,4 @@
 <h3 align="center">Salut! Moi c'est Anthony !</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ventoaureo230" alt="ventoaureo230" /></a> </p>
-
 <p align="left">
 </p>
 
